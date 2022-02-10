@@ -1,0 +1,39 @@
+p {
+	color: green;
+}
+span{
+	color: red;
+}
+.text1{
+	color: blue;
+}
+.text2{
+	color: yellow;
+}
+.text3{
+	color: aqua;
+}
+.text4{
+	color: brown;
+}
+.paragraph{
+	color: chocolate;
+}
+#block{
+	color: fuchsia;
+}
+p {
+	color: blueviolet;
+}
+.text{
+	color: aquamarine;
+}
+div{
+	color: darkgoldenrod;
+}
+h1, h2{
+	color: green;
+}
+ul.list{
+	color: lawngreen;
+}
